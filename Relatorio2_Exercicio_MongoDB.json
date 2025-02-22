@@ -1,0 +1,65 @@
+
+{
+    "Aulas":[
+        {
+            "professor":{
+                "nome": "Renan"
+            },
+            "assunto":"Calculo I",
+            "alunos": [
+                {
+                    "nome": "Lucas Belino"
+                },
+                {
+                    "nome": "Lauro Liberato"
+                },
+                {
+                    "nome": "Alexandre de Moraes"
+                },
+                {
+                    "nome": "Bruce Mendes"
+                }
+            ]
+        },
+        {
+            "professor":{
+                "nome": "Estevão"
+            },
+            "assunto":"Calculo II",
+            "alunos": [
+                {
+                    "nome": "Bruno Monteiro"
+                },
+                {
+                    "nome": "Cassia Lima"
+                },
+                {
+                    "nome": "João Gabriel Junior"
+                },
+                {
+                    "nome": "Gabriel Renato"
+                }
+            ]
+        },
+        {
+            "professor":{
+                "nome": "Renzo"
+            },
+            "assunto":"Analise de dados",
+            "alunos": [
+                {
+                    "nome": "Manuella Fernandes"
+                },
+                {
+                    "nome": "Barbara Rosa"
+                },
+                {
+                    "nome": "Davi Rangel"
+                },
+                {
+                    "nome": "Jonas Sebastião"
+                }
+            ]
+        }      
+    ]
+}
